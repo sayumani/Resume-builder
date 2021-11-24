@@ -1,0 +1,23 @@
+{
+    "name": "Sayooj V R",
+    "profile_url": "",
+    "social_links": {
+        "fb": "https://www.facebook.com/sayoojvr.sayumani",
+        "twitter": "https://twitter.com/sayumani",
+        "instagram": "https://www.instagram.com/sayumani",
+        "linkedin": "https://www.linkedin.com/in/sayooj-v-r-5a3b5524",
+        "github": "https://github.com/sayumani"
+    },
+    "personal_info": {
+        "house_name" : "Vylappully House",
+        "country": "India",
+        "state": "Kerala",
+        "district": "Thrissur",
+        "postal_office": "Peringottukara",
+        "pin": 680565
+    },
+    "contact_info": {
+        "phone": "+91 7736381684",
+        "email": "sayoojvylappully@gmail.com"
+    }
+}
