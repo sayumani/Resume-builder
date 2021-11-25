@@ -1,0 +1,22 @@
+.profile-header{
+    background-color: #313c4e;
+    color: #ffff;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.designation{
+    color: rgb(68, 147, 153);
+}
+
+.profile-img{
+    height: 151px;
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #449399;
+    border-width: 6px;
+}
