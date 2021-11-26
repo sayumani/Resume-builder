@@ -24,30 +24,6 @@ const Education = () => {
               </li>
             );
           })}
-          {/* <li class="tl-item">
-            <div class="timestamp">
-              3rd March 2015
-              <br /> 7:00 PM
-            </div>
-            <div class="item-title">Start from Shire</div>
-            <div class="item-detail">Don't forget the ring</div>
-          </li>
-          <li class="tl-item">
-            <div class="timestamp">
-              19th March 2015
-              <br /> 3:00 PM
-            </div>
-            <div class="item-title">Kill some Orcs</div>
-            <div class="item-detail">Don't enter the caves!!</div>
-          </li>
-          <li class="tl-item">
-            <div class="timestamp">
-              1st June 2015
-              <br /> 7:00 PM
-            </div>
-            <div class="item-title">Throw that goddamn ring in the lava</div>
-            <div class="item-detail">Also, throw that Gollum too</div>
-          </li> */}
         </ul>
       </div>
     </div>
