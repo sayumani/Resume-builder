@@ -20,5 +20,34 @@
     "contact_info": {
         "phone": "+91 7736381684",
         "email": "sayoojvylappully@gmail.com"
-    }
+    },
+    "skills":["Go", "Node.js", "Javascript", "React.js", "Postgres", "ExpressJs", "Angular", "Docker", "ElasticSearch", "AWS", "GCP", "HTML5", "CSS3", "Git"],
+    "languages": ["English", "Malayalam"],
+    "interests": [""],
+    "eduction": [
+        {
+            "startDate": "2011/09",
+            "endDate": "2015/04",
+            "course": "Computer Science & Engineering",
+            "collge": "College of Engineering Munnar",
+            "university": "Cusat",
+            "percentage": "71.8"
+        },
+        {
+            "startDate": "2009/06",
+            "endDate": "2011/03",
+            "course": "Computer Science",
+            "collge": "VPM SNDP HSS Kazhimbram",
+            "university": null,
+            "percentage": "91"
+        },
+        {
+            "startDate": "2008/06",
+            "endDate": "20009/03",
+            "course": "SSLC",
+            "collge": "High School Anthikad",
+            "university": null,
+            "percentage": "90"
+        }
+    ]
 }

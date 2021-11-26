@@ -1,0 +1,17 @@
+.skil-list{
+    list-style: none;
+    display: block;
+}
+
+.skil-list-item{
+    background: #989da6!important;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    color: #ffff!important;
+    font-weight: bold;;
+}
+
+.skills-header{
+    color: #449399;
+    text-decoration: underline;
+}
